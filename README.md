@@ -17,4 +17,4 @@ This is my sample README file
 https://en.wikipedia.org/wiki/Main_Page 
 
 
-![Image](file:///SoftwareDevToolsA5/Exia.jpeg)
+![Image](https://github.com/ColinMcIntyre01/SoftwareDevToolsA5/blob/main/Exia.jpeg)
